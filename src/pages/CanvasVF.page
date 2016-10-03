@@ -1,4 +1,5 @@
 <apex:page >
   <apex:canvasApp applicationName="CanvasConnectApp"/>
   <!--Change-->
+   <!--Change 3-->
 </apex:page>
